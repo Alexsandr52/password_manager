@@ -1,6 +1,6 @@
 import json
-import functions
-import sattings
+import password_manager.functions as functions
+import password_manager.sattings as sattings
 from os.path import exists
  
 with open(sattings.path) as json_file:

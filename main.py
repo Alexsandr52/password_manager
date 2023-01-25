@@ -1,5 +1,5 @@
 # Password manager 
-import user_interface
+import password_manager.user_interface as user_interface
 
 cmd_commands = user_interface.cmd_commands
 print('Password manager')
