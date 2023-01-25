@@ -1,0 +1,1 @@
+{"default_len": 16, "default_symbols": ["abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ", "0123456789", "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~"], "default_path": "data_json/passwords.json", "config_path": "data_json/json_default_variabls.json"}
